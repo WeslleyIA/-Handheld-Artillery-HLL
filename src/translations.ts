@@ -1,0 +1,72 @@
+export type Language = 'en' | 'pt' | 'de' | 'es';
+
+export const translations = {
+  en: {
+    title: "Hell Let Loose Artillery Calculator - Overwolf App",
+    description: "The best Overwolf app for Hell Let Loose artillery. Calculate distance, elevation, and hit your targets with precision. Download now!",
+    keywords: "Hell Let Loose, Artillery Calculator, Overwolf App, HLL Artillery, HLL Calculator, Artillery overlay",
+    heroTitle: "Master the Artillery in Hell Let Loose",
+    heroSubtitle: "The ultimate Overwolf overlay for precise artillery calculations. Dominate the battlefield without leaving your game.",
+    downloadBtn: "Download on Overwolf",
+    featuresTitle: "Why use our app?",
+    feat1Title: "Precise Calculations",
+    feat1Desc: "Instantly convert distance to elevation for all factions (US, GER, RUS, GB).",
+    feat2Title: "In-Game Overlay",
+    feat2Desc: "No need to alt-tab. Get your coordinates directly on your screen via Overwolf.",
+    feat3Title: "Easy to Use",
+    feat3Desc: "Simple interface designed for quick inputs during intense combat.",
+    footerText: "Not affiliated with Black Matter Pty Ltd or Team17. Hell Let Loose is a registered trademark of its respective owners.",
+    language: "Language"
+  },
+  pt: {
+    title: "Calculadora de Artilharia para Hell Let Loose - App Overwolf",
+    description: "O melhor aplicativo Overwolf para artilharia no Hell Let Loose. Calcule distância, elevação e acerte seus alvos com precisão. Baixe agora!",
+    keywords: "Hell Let Loose, Calculadora de Artilharia, App Overwolf, Artilharia HLL, Calculadora HLL, Overlay de artilharia",
+    heroTitle: "Domine a Artilharia no Hell Let Loose",
+    heroSubtitle: "O melhor overlay do Overwolf para cálculos precisos de artilharia. Domine o campo de batalha sem sair do jogo.",
+    downloadBtn: "Baixar no Overwolf",
+    featuresTitle: "Por que usar nosso app?",
+    feat1Title: "Cálculos Precisos",
+    feat1Desc: "Converta instantaneamente distância em elevação para todas as facções (EUA, ALE, RUS, GB).",
+    feat2Title: "Overlay no Jogo",
+    feat2Desc: "Sem necessidade de dar alt-tab. Obtenha suas coordenadas diretamente na tela via Overwolf.",
+    feat3Title: "Fácil de Usar",
+    feat3Desc: "Interface simples projetada para entradas rápidas durante combates intensos.",
+    footerText: "Não afiliado à Black Matter Pty Ltd ou Team17. Hell Let Loose é uma marca registrada de seus respectivos proprietários.",
+    language: "Idioma"
+  },
+  de: {
+    title: "Hell Let Loose Artillerie Rechner - Overwolf App",
+    description: "Die beste Overwolf-App für Hell Let Loose Artillerie. Berechnen Sie Entfernung, Höhe und treffen Sie Ihre Ziele mit Präzision. Jetzt herunterladen!",
+    keywords: "Hell Let Loose, Artillerie Rechner, Overwolf App, HLL Artillerie, HLL Rechner, Artillerie Overlay",
+    heroTitle: "Meistere die Artillerie in Hell Let Loose",
+    heroSubtitle: "Das ultimative Overwolf-Overlay für präzise Artillerieberechnungen. Dominiere das Schlachtfeld, ohne dein Spiel zu verlassen.",
+    downloadBtn: "Auf Overwolf herunterladen",
+    featuresTitle: "Warum unsere App nutzen?",
+    feat1Title: "Präzise Berechnungen",
+    feat1Desc: "Wandeln Sie Entfernungen sofort in Höhenangaben für alle Fraktionen um (US, GER, RUS, GB).",
+    feat2Title: "In-Game Overlay",
+    feat2Desc: "Kein Alt-Tab nötig. Erhalten Sie Ihre Koordinaten direkt auf dem Bildschirm über Overwolf.",
+    feat3Title: "Einfach zu bedienen",
+    feat3Desc: "Einfache Benutzeroberfläche für schnelle Eingaben während intensiver Kämpfe.",
+    footerText: "Nicht verbunden mit Black Matter Pty Ltd oder Team17. Hell Let Loose ist ein eingetragenes Warenzeichen der jeweiligen Eigentümer.",
+    language: "Sprache"
+  },
+  es: {
+    title: "Calculadora de Artillería para Hell Let Loose - App Overwolf",
+    description: "La mejor aplicación de Overwolf para artillería en Hell Let Loose. Calcula distancia, elevación y acierta a tus objetivos con precisión. ¡Descarga ahora!",
+    keywords: "Hell Let Loose, Calculadora de Artillería, App Overwolf, Artillería HLL, Calculadora HLL, Overlay de artillería",
+    heroTitle: "Domina la Artillería en Hell Let Loose",
+    heroSubtitle: "El overlay definitivo de Overwolf para cálculos precisos de artillería. Domina el campo de batalla sin salir de tu juego.",
+    downloadBtn: "Descargar en Overwolf",
+    featuresTitle: "¿Por qué usar nuestra app?",
+    feat1Title: "Cálculos Precisos",
+    feat1Desc: "Convierte instantáneamente la distancia en elevación para todas las facciones (EE.UU., ALE, RUS, GB).",
+    feat2Title: "Overlay en el Juego",
+    feat2Desc: "Sin necesidad de hacer alt-tab. Obtén tus coordenadas directamente en tu pantalla a través de Overwolf.",
+    feat3Title: "Fácil de Usar",
+    feat3Desc: "Interfaz sencilla diseñada para entradas rápidas durante combates intensos.",
+    footerText: "No afiliado a Black Matter Pty Ltd o Team17. Hell Let Loose es una marca registrada de sus respectivos propietarios.",
+    language: "Idioma"
+  }
+};
